@@ -13,6 +13,4 @@
 - [Remix IDE & Libs](https://github.com/ethereum/remix) - Core Contributor
 - [jump-tracker](https://github.com/iurimatias/jump-tracker) - Vim plugin that tracks your cursor when it 'jumps'
 
-⚡ Main Interests: Decentralized Protocols & Apps, Machine Learning (in particular: image generation, reinforcement learning and genetic algorithms)
-
 ⚡ Main Interests: Machine Learning, Cryptography & Applied Mathematics, Decentralized Protocols & Applications.
